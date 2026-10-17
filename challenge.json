@@ -1,0 +1,7 @@
+{
+  "id": "inventory-list",
+  "title": "Inventory List",
+  "difficulty": "beginner",
+  "starterOnly": true,
+  "privateTestsExcluded": true
+}
